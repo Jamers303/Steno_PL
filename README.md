@@ -26,7 +26,12 @@ Do takiej klawiatury powinniśmy wydrukować sobie specjalne nakładki "prostuj�
 Później musimy jeszcz pobawić się trochę wyciągając z klawiatury niepotrzebne klawisze, zostawiając te które pasują do układu polskiej klawiatury stenograficznej. Układ ten wygląda następująco:
 
 
+
+
 Jeszcze odrobina zabawy w zaklejanie czarną taśmą dziur po klawiszach, zakładanie nakładek i ostateczznie otrzymujemy coś w tym kształcie:
+
+
+
 
 
 ### System
