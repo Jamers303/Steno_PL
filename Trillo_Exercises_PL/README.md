@@ -1,6 +1,7 @@
 ## Ćwiczenia z podręcznika  
 
   Tutaj znajdują się ćwiczenia z podręcznika do polskiego systemu stenotypii autorstwa Priscilli Trillo.   
+  Aktualna wersja podręcznika znajduje się tutaj: ["West Slavic Machine Stenography"](https://github.com/Plover-Trillo/WestSlavicStenography/releases)
 
     
   W podkatalogu FingerExercises znajdują się ćwiczenia 1-7 (do ich wykonania należy zdezaktywować wszystkie słowniki w Plover).  
