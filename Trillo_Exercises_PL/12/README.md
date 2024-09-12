@@ -1,0 +1,32 @@
+<pre>
+szar	TPAR
+bęb	PJEIAB
+dar	TJAR
+szew	TPEW
+czas	PVAS
+bal	PJAL
+dęt	TJEIAT
+żab	TPJAB
+szer	TPER
+czes	PVES
+szal	TPAL
+czub	PVUB
+że	TPJE
+szac	TPAC
+czyt	PVIT
+des	TJES
+bąb	PJEAUB
+żyw	TPJIW
+gąb	KJEAUB
+dyr	TEIAUR
+szel	TPEL
+bial	PJIAL
+czy	PVI
+dat	TJAT
+bag	PJAG
+czuw	PVUW
+bier	PJEIR
+szat	TPAT
+gab	KJAB
+szyb	TPIB
+</pre>
