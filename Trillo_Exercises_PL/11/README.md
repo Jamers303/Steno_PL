@@ -1,0 +1,32 @@
+<pre>
+aul	EAL
+kęs	KEIAS
+pęt	PEIAT
+fab	FAB
+tęg	TEIAG
+wag	VAG
+ząb	ZEAUB
+aut	EAT
+lew	LEW
+piec	PEIC
+rąb	REAUB
+węg	VEIAG
+pog	PAUG
+eur	EUR
+ós	EIUS
+rob	RAUB
+wąg	VEAUG
+wiar	VIAR
+kąt	KEAUT
+paw	PAW
+pies	PEIS
+rów	REIUW
+wąs	VEAUS
+więc	VJEIAC
+sól	SEIUL
+wąt	VEAUT
+piac	PIAC
+was	VAS
+kul	KUL
+euro	EURO
+</pre>
