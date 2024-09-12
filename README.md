@@ -1,6 +1,6 @@
 # Steno_PL
 
-Celem pojektu Steno_PL jest publikacja słowników zgodnych z Plover i z wtyczką Slowik, pzrznaczonych dla systemu polskiej stenotypii.  
+Celem pojektu Steno_PL jest publikacja słowników zgodnych z Plover i z wtyczką Slowik, przeznaczonych dla systemu polskiej stenotypii.  
 ## Aktualnie opublikowane słowniki:
 * [Trillo_Exercises_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL) - słownik obsługujący wszystkie słowa, rdzenie, przedrostki, przyrostki i inne literały użyte w ćwiczeniach zawartych w podręczniku "West Slavic Machine Stenography" autorstwa Priscilli Trillo.
 
