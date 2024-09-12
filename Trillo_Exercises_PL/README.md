@@ -9,4 +9,9 @@
   
 Wszystkie ćwiczenia można w łatwy i przyjemny sposób wykonać np. na platformie Typey Type, wklejając je do formularza dostępnego tutaj:
 [https://didoesdigital.com/typey-type/lessons/custom/setup](https://didoesdigital.com/typey-type/lessons/custom/setup)
-    
+  
+Do obsługi polskiego systemu stenotypii konieczne jest:
+* oprogramowanie [Plover](https://www.openstenoproject.org/plover/)
+* wtyczka [Slowik](https://github.com/flamenco108/plover_polish_slowik) zainstalowana w Plover
+
+  
