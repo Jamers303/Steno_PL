@@ -54,7 +54,7 @@ Podziękowania dla wszystkich osób, dzięki którym możemy zgłębiać piękn�
 * dla Krzysztofa Smirnowa i Marka Łukasiewicza za wtyczkę Slowik,
 * dla wszystkich, którzy nie boją się tematu stenotypii - czyli dla Ciebie drogi czytelniku ;)
 
-Powodzenia w nauce
-- Jamers
+Powodzenia w nauce  
+Jamers
 
 
