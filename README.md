@@ -27,16 +27,18 @@ Później musimy jeszcz pobawić się trochę wyciągając z klawiatury niepotrz
 
 ![Układ polski steno](uklad.png)
 
-Jeszcze odrobina zabawy w zaklejanie czarną taśmą dziur po klawiszach, zakładanie nakładek i ostateczznie otrzymujemy coś w tym kształcie:
+Jeszcze odrobina zabawy w zaklejanie czarną taśmą dziur po klawiszach, zakładanie nakładek i ostatecznie otrzymujemy coś w tym kształcie:
 
 ![Moja klawiatura steno](moja.png)
 
-Wybrałem niesymetryczny układ przycisków numerycznych bo taki mi się podobał :D
-
+Zrobiłem niesymetryczny układ przycisków numerycznych gdyż taki mi się podobało :D
 
 ### System
+Do niedawna nie mieliśmy polskiego systemu stenotypii ale na szczęście to się zmieniło. Priscilla Trillo wykonała niesamowity ogrom pracy i przygotowała system nie tylko dla języka polskiego ale również dla czeskiego i słowackiego! Opis systemu "West Slavic Machine Stenography" jest do pobrania [TUTAJ](https://github.com/Plover-Trillo/WestSlavicStenography/releases) całkowicie za darmo. Teraz nie ma już żadnego usprawiedliwienia. Wystarczy "tylko" usiąć do lektury opasłego tomiska i się uczyć. 
+
 
 ### Oprogramowanie
+Oprogramowanie obslugujące klawiatury stenotypiczne to dobrze znany w środowisku steno Plover. Oprogramowanie to jest udostępnione za darmo i należy je ściągnąć i zainstalować na komputerze, na którym będziemy zgłębiać tajniki sztuki stenotypii. Strona domowa projektu Plover jest [TUTAJ](https://www.openstenoproject.org/plover/). 
 
 ### Wtyczka
 
