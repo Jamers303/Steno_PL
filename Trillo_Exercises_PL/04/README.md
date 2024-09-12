@@ -1,0 +1,32 @@
+<pre>
+ZI	ZI
+IC	IC
+KI	KI
+IL	IL
+VI	VI
+IB	IB
+SI	SI
+IR	IR
+TI	TI
+IS	IS
+RI	RI
+IT	IT
+EC	EC
+KE	KE
+EL	EL
+ZE	ZE
+EB	EB
+VE	VE
+ZA	ZA
+AB	AB
+KA	KA
+AC	AC
+VA	VA
+AL	AL
+Z-R	Z-R
+S-C	S-C
+K-L	K-L
+T-B	T-B
+V-S	V-S
+R-T	R-T
+</pre>
