@@ -6,4 +6,27 @@ Celem pojektu Steno_PL jest publikacja słowników zgodnych z Plover i z wtyczk�
 
 ## Co to jest ta stenotypia i co do niej potrzeba?
 
-Czym jest stenotypia (i szerzej: stenografia) możemy dowiedzieć się z serii wpisów na blogu Krzysztofa Smirnowa: [www.stenografia.pl](https://www.stenografia.pl/), który jest nieocenionym apostołem, propagatorem i źródłem wiedzy na ten temat w polskim internecie. 
+Czym jest stenotypia (i szerzej: stenografia) możemy dowiedzieć się z serii wpisów na blogu Krzysztofa Smirnowa: [www.stenografia.pl](https://www.stenografia.pl/), który jest nieocenionym apostołem, propagatorem i źródłem wiedzy na ten temat w polskim internecie. Jest również autorem i koordynatorem prac nad wtyczką Slowik, ale o tym za chwilę.
+
+Gdy już poznamy czym jest stenotypia to pora odpowiedzieć sobie na pytanie - co jest potrzebne do tego, żeby nauczyć się jej i móc ją praktykować. Niezbędnymi składnikami są:
+* **klawiatura** stenotypiczna,
+* **system** (teoria) sposobu pisania na klawiaturze stenotypicznej w danym języku,
+* **oprogramowanie** obsługujące klawiaturę,
+* **wtyczka** do tegoż oprogramowania realizująca układ klawiatury zgodny z wybranym systemem,
+* **słowniki** jako formalny zapis tłumaczenia akordów wciskane na klawiaturze na słowa, litery i znaki (zgodnie z wytycznymi opisanymi przez system).
+
+Skąd to wszystko wziąć? No to po kolei...
+
+### Klawiatura
+
+### System
+
+### Oprogramowanie
+
+### Wtyczka
+
+### Słowniki
+
+### ...a na koniec - podziękowania
+*
+
