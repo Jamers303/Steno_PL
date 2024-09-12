@@ -31,19 +31,30 @@ Jeszcze odrobina zabawy w zaklejanie czarną taśmą dziur po klawiszach, zakła
 
 ![Moja klawiatura steno](moja.png)
 
-Zrobiłem niesymetryczny układ przycisków numerycznych gdyż taki mi się podobało :D
+Zrobiłem niesymetryczny układ przycisków numerycznych gdyż taki mi się podoba :D
 
 ### System
-Do niedawna nie mieliśmy polskiego systemu stenotypii ale na szczęście to się zmieniło. Priscilla Trillo wykonała niesamowity ogrom pracy i przygotowała system nie tylko dla języka polskiego ale również dla czeskiego i słowackiego! Opis systemu "West Slavic Machine Stenography" jest do pobrania [TUTAJ](https://github.com/Plover-Trillo/WestSlavicStenography/releases) całkowicie za darmo. Teraz nie ma już żadnego usprawiedliwienia. Wystarczy "tylko" usiąć do lektury opasłego tomiska i się uczyć. 
+Do niedawna nie mieliśmy polskiego systemu stenotypii ale na szczęście to się zmieniło. Priscilla Trillo wykonała niesamowity ogrom pracy i przygotowała podręcznik z opisem systemu nie tylko dla języka polskiego ale również dla czeskiego i słowackiego! Opis systemu "**West Slavic Machine Stenography**" jest do pobrania [TUTAJ](https://github.com/Plover-Trillo/WestSlavicStenography/releases) całkowicie za darmo. Teraz nie ma już żadnego usprawiedliwienia. Wystarczy "tylko" usiąć do lektury opasłego tomiska i się uczyć. 
 
 
 ### Oprogramowanie
-Oprogramowanie obslugujące klawiatury stenotypiczne to dobrze znany w środowisku steno Plover. Oprogramowanie to jest udostępnione za darmo i należy je ściągnąć i zainstalować na komputerze, na którym będziemy zgłębiać tajniki sztuki stenotypii. Strona domowa projektu Plover jest [TUTAJ](https://www.openstenoproject.org/plover/). 
+Oprogramowanie obslugujące klawiatury stenotypiczne to dobrze znany w środowisku steno **Plover**. Oprogramowanie to jest udostępnione za darmo i należy je ściągnąć i zainstalować na komputerze, na którym będziemy zgłębiać tajniki sztuki stenotypii. Strona domowa projektu Plover jest [TUTAJ](https://www.openstenoproject.org/plover/). 
 
 ### Wtyczka
+Jak można było przeczytać wcześniej - Krzysztof Smirnow nie tylko dzieli się z wszystkimi swą ogromną wiedzą na temat stenografii i stenotypii ale również stworzył (wspólnie z Markiem Łukasiewiczem) wtyczkę do oprogramowania Plover, obsugującą polski system stenotypii. Wtyczka nazywa się **Slowik** (z powodów podanych w tym [wpisie](https://www.stenografia.pl/blog/2021-08-24_krotko-o-nazwie-projektu/) na blogu stenografia.pl) i należy ją zainstalować zgodnie z instrukcją dostępną [TUTAJ](https://github.com/flamenco108/plover_polish_slowik).
 
 ### Słowniki
+No i tu mamy pewien problem. Otóż słownika zgodnego z polskim systemem stenotypii... nie ma. Ten dostępny z wtyczką Slowik jest na razie dość pusty. Z wpisów na blogu stenografia.pl możemy dowiedzieć się, że prace nad słownikiem trwają ale nie został określony żaden horyzont czasowy, kiedy taki słownik mógłby się pojawić. Stąd właśnie pomysł na projekt Steno_PL. Żeby nie blokować sobie możliwości nauki polskie stenotypii zacząłem przygotowywać słownik, który docelowo ma zawierać wszystkie słowa wykorzystane w ćwiczeniach opisanych w podręczniku. Słownik uzupełniam sukcesywnie w trakcie przerabiania kolejnych lekcji z podręcznika, które również przepisuje tutaj do GitHuba. Po szczegóły - odsyłam [TUTAJ](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL).
 
 ### ...a na koniec - podziękowania
-*
+Podziękowania dla wszytskich osób, dzięki którym możemy zgłębiać piękną sztukę stenotypii w naszym języku:
+* dla Mirabai Knight za ufundowanie oprogramowania Plover,
+* dla Priscilli Trillo za podręcznik do polskiej stenotypii,
+* dla Krzysztofa Smirnowa za propagowanie idei stenografii i stenotypii w narodzie,
+* dla Krzysztofa Smirnowa i Marka Łukasiewicza za wtyczkę Slowik,
+* dla wszystkich, którzy nie boją się tematu stenotypii - czyli dla Ciebie drogi czytelniku ;)
+
+Powodzenia w nauce
+- Jamers
+
 
