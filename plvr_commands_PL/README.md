@@ -2,6 +2,8 @@
 
 Tutaj znajduje się słownik oferujący sterowanie oprogramowaniem Plover - czyli wywoływanie jego komend. Założenie słownika jest takie, że lewa ręka zawsze używa tego samego akordu oznaczającego rozpoczęcie komendy natomiast prawa wybiera pojedynczą literę wskazujacą już konkretną komendę. Wybór akordu dla lewej ręki okazał się prosty. Jest to **PVLR** - czyli czytając klawiszę wierszami od góry: PLVR (czyli Plover).
 
+![Układ komend](ukladCommands.png)
+
 Prawa ręka wybiera pojedynczą literę będącą w większości przypadków początkiem nazwy komendy.
 Poniżej opisane zostały wszystkie komendy obsługiwane przez słownik wraz ze wskazaniem ich mnemoników.
 
