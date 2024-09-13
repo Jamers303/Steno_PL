@@ -1,0 +1,1 @@
+## Słownik opisjący komendy Plover
