@@ -1,0 +1,1 @@
+## Słownik z literami
