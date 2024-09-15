@@ -14,5 +14,5 @@ Litery wprowadzane z modyfikatorami opisanymi w poniższej tabeli.
 |  pojedyncza litera    |    _brak_                    | małe litery w trybie "zlepiania" (czyli bez spacji pomiędzy innymi literkami i cyframi) |
 |     j.w.              | RBGW                       | wielkie litery w trybie "zlepiania" |
 |     j.w.              | RBGWY                      | wielka litera, kropka i spacja przed następnym wyrazem (przydatne przy inicjałach) |
-|     j.w.              | *RBGW                      | myślnik i wielka litera, w trybie "zlepiania" (przydatne przy dobitnym literowaniu typu: "N-I-E"") |
+|     j.w.              | *RBGW                      | myślnik i wielka litera, w trybie "zlepiania" (przydatne przy dobitnym literowaniu typu: "N-I-E") |
 |     j.w.              | *RBGWY                     | nazwa litery (be, ce, cie, itp.) i spacja przed następnym wyrazem  |
