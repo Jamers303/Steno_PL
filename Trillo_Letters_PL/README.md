@@ -1,6 +1,6 @@
 ## Słownik z literami
 
-W tym katalogu zamieszczam słownik z literami (alfabetami) według systemu Priscilli Trillo. Trzymam się w nim wykłani z lekcji 39 z następującymi wyjątkami:
+W tym katalogu zamieszczam słownik z literami (alfabetami) według systemu Priscilli Trillo. Trzymam się w nim wykładni z lekcji 39 z następującymi wyjątkami:
 * w alfabecie uwzględniłem tylko pojedyncze znaki (bez: dz, dż, sz, itp.)
 * dla "ó" oprócz proponowanego w lekcji akordu ~AU dodałem jeszcze standardowy EIU (poznany w lekcji 7)
 * podobnie dla "ś" oprócz SJ dodałem również S~
