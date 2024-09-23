@@ -10,7 +10,7 @@
 Wszystkie ćwiczenia można w łatwy i przyjemny sposób wykonać np. na platformie Typey Type, wklejając skopiowaną treść ćwiczenia do formularza dostępnego tutaj:
 [https://didoesdigital.com/typey-type/lessons/custom/setup](https://didoesdigital.com/typey-type/lessons/custom/setup) i wybierając następnie przycisk "Start custom lesson".  
 
-Wszystkie translacje (wyrazy na akordy) zostały wpisane do słownika przeze mnie - czyli jest to moja interpretacja słów, zgodna (mam nadzieję) z zamysłem autorki systemu. Dla niektórych wyrazów wpisałem parę dopuszczalnych ciągów akordów (np. dla wyrazu "zranić":	ZRACL/ITO oraz ZRACLW/T~).  
+Wszystkie translacje (wyrazy na akordy) zostały wpisane do słownika przeze mnie - czyli jest to moja interpretacja słów, zgodna (mam nadzieję) z zamysłem autorki systemu. Dla niektórych wyrazów wpisałem parę dopuszczalnych zestawów akordów (np. dla wyrazu "zranić":	ZRACL/ITO oraz ZRACLW/T~).  
 Jeżeli jednak znajdziecie jakiekolwiek nieprawidłowowści - proszę o kontakt. 
 
   
