@@ -1,5 +1,5 @@
 Czasami wyrazy do ćwiczeń nie są za dobrze dobrane. W tym ćwiczeniu mamy wyraz "brzask". 
-Na tym etapie nauki nie mam pojęcia jak pisać kombinacje spółgłosek po prawej stronie. Ta lekcja dopiero przede mną. :)
+Na tym etapie nauki nie mam pojęcia jak pisać kombinacje spółgłosek "sk" po prawej stronie. Ta lekcja dopiero przede mną. :)
 Zostaje wymyślić jakiś niezbyt zgrabny akord zastępczy - co też niniejszym czynię.
 <pre>
 brzeg	PRJEG	
