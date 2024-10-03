@@ -1,4 +1,7 @@
-UWAGA: części tych akordów nie jestem pewien - oczekują na weryfikację autorki systemu polskiej stenotypii.
+UWAGA: części tych akordów nie jestem pewien - oczekują na weryfikację autorki systemu polskiej stenotypii.  
+Dodatkowo w tym i przyszłych ćwiczeniach przyjąłem zasadę (podobnie jak oficjalna: J+IAU = EIAU) dotyczącą budowania akordów zawierających J oraz samogłoskę  "ó":  
+**J+EIU = JU**  
+dlatego dziób = TJUB a np. ból = PJUL
 
 <pre>
 nią	LRJEAU
