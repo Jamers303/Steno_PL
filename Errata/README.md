@@ -8,6 +8,7 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
   
 | Strona | Lekcja | Ćwicz. | Jest | Powinno być | Opis |
 |--------|--------|-----------|------|-------------|------|
+| 28 | 6 | 8 | tel | - | Wyraz kłopotliwy ponieważ jego akord (TEL) nakłada się z akordem dla "ciel" w ćwiczeniu 15. |
 | 33 | 8 | - | - | J + EIU = JU | Zaraz na wstępie nauki uczymy się o zasadzie, że jeżeli w akordzie występuje J oraz y (IAU) to robimy z tego EIAU (jak dla wyrazu "był" - PEIAUL). Podobna zasada przydała by się dla J + ó (czyli EIU) gdyż taka zbitka generuje "niemożliwy" akord. Proponuję przyjąć J + EIU = JU (czyli akord taki jak dla "ió"). Wyraz "ból" zapiszemy wtedy jako PJUL. Ta zasada przyda się już w ćwiczeniu 15 -wyraz "dziób" i w kolejnych... |
 | 46 | 13 | - | CG w lewej kolumnie | CG w prawej kolumnie | Na tym etapie nie znamy jeszcze "ch" po prawej stronie, wieć powinno być w prawej kolumnie.|
 | 63 | 18 | - | gl = KRL | gl = KLJ | Raczej oczywista pomyłka. |
