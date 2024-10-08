@@ -1,6 +1,7 @@
 Czasami wyrazy do ćwiczeń nie są za dobrze dobrane. W tym ćwiczeniu mamy wyraz "brzask". 
 Na tym etapie nauki nie mam pojęcia jak pisać kombinacje spółgłosek "sk" po prawej stronie. Ta lekcja dopiero przede mną. :)
-Zostaje wymyślić jakieś niezbyt zgrabne akordy zastępcze - co też niniejszym czynię.
+Zostaje wymyślić jakieś niezbyt zgrabne akordy zastępcze - co też niniejszym czynię.  
+Edit: doczytałem - "brzask" to uwaga: PRJALS. Dlaczego? O tym dowiecie się jak dotrzecie do lekcji 24. :)
 <pre>
 brzeg	PRJEG	
 brzydnąć	PRJIBT/LREAUTO	
@@ -30,6 +31,6 @@ wrzód	VREIUBT
 zrzez	ZREBS	
 zrządzać	ZREAUCW/ATO	
 trwonić	TR-W/AUCL/ITO	TR-W/AUCLW/T~
-brzask	PRJA/S-BG	PRJAS/K
+brzask	PRJA/S-BG	PRJAS/K  PRJALS
 przed	PREBT	
 </pre>
