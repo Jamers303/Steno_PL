@@ -17,7 +17,7 @@ kib	KIB
 kab	KAB
 kub	KUB
 kyb	KIAUB
-tel	TEL
+tel	TEL  TE*L
 tol	TAUL
 tal	TAL
 til	TIL
