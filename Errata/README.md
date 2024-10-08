@@ -18,7 +18,13 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 78 | 20 | 24 | wamy | - | Ten przykład jest wpisany omyłkowo. |
 | 81 | 21 | - | between Ś and Ź and S and Z | between Ś and S and Ź and Z | Chyba taki szyk byłby bardziej nautralny. |
 | 81 | 21 | - | zdż = ZPV | zdż = ZPVJ | Akord nie jest oznaczony na czerwono jako wyjątek więc to chyba pomyłka. |
-| 82 | 21 | - | żm = KTP | żm = KTPJ | Akord dla "żm" nie jest oznaczony jako wyjątek więc chyba pomyłka. |
+| 82 | 21 | - | żm = KTP | żm = KTPJ | Akord dla "żm" nie jest oznaczony jako wyjątek więc chyba pomyłka. KTPJ byłby też zgodny z akordem dla "mż". |
 | 82 | 21 | - | - | szm = KTP | Brakuje mi w kombinacji kończącej się na M "szm" (jak dla wyrazu "szmat"). Proponuję ja tu dopisać. |
+| 85 | 21 | 25 | cworo | czworo | Pomyłka. |
+| 96 | 23 | - | tz = ZSJ | tz = ZT* | Czy taki akord nie byłby bardziej naturalny? |
+| 96 | 23 | - | zż = ZTP | zż = ZTPJ | Akord nie oznaczony jako wyjątek więc chyba pomyłka. |
+| 97 | 23 | - | ts = ZS* | ts = ST* | Dla słowackiego mamy ST* więc czemu nie dla polskiego? Akord bardziej naturalny. |
+| 99 | 23 | 27 | dżem, dżudo | - | Przyklady niepotrzebne w tym ćwiczeniu ponieważ nie ćwiczą żadnej kombinacji. |
+
 
 
