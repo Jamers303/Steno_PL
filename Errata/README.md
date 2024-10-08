@@ -8,3 +8,5 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
   
 | Strona | Lekcja | Ćwiczenie | Jest | Powinno być | Opis |
 |--------|--------|-----------|------|-------------|------|
+| 33 | 8 | - | - | J + EIU = JU | Zaraz na wstępie nauki uczymy się o zasadzie, że jeżeli w akordzie występuje J oraz y (IAU) to robimy z tego EIAU (jak dla wyrazu "był" - PEIAUL). Podobna zasada przydała by się dla J + ó (czyli EIU) gdyż taka zbitka generuje "niemożliwy" akord. Proponuję przyjąć J + EIU = JU (czyli akord taki jak dla "ió"). Wyraz "ból" zapiszemy wtedy jako PJUL. Ta zasada przyda się już w ćwiczeniu 15 -wyraz "dziób" i w kolejnych... |
+| 
