@@ -14,5 +14,11 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 64 | 18 | - | cł = ZTL | cł = ZSL | j.w. |
 | 75 | 20 | - | žn | żn | j.w. |
 | 75 | 20 | - | mnią | mię | Tak na prawdę nie wiem co to miał być za wyraz. "Mię" wydaje się stare i manieryczne...|
+| 76 | 20 | - | dzb = ZSP | dzb = ZSPJ | Raczej oczywista pomyłka. |
+| 78 | 20 | 24 | wamy | - | Ten przykład jest wpisany omyłkowo. |
+| 81 | 21 | - | between Ś and Ź and S and Z | between Ś and S and Ź and Z | Chyba taki szyk byłby bardziej nautralny. |
+| 81 | 21 | - | zdż = ZPV | zdż = ZPVJ | Akord nie jest oznaczony na czerwono jako wyjątek więc to chyba pomyłka. |
+| 82 | 21 | - | żm = KTP | żm = KTPJ | Akord dla "żm" nie jest oznaczony jako wyjątek więc chyba pomyłka. |
+| 82 | 21 | - | - | szm = KTP | Brakuje mi w kombinacji kończącej się na M "szm" (jak dla wyrazu "szmat"). Proponuję ja tu dopisać. |
 
 
