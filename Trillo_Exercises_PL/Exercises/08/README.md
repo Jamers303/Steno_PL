@@ -1,3 +1,5 @@
+Dla "tel" dodaje alternatywny akord, bo nakłada się z tym dla wyrazu "ciel" w ćwiczeniu 15.
+
 <pre>
 zor	ZAUR
 zer	ZER
