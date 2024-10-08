@@ -38,7 +38,8 @@ Odrobina zabawy w zaklejanie czarną taśmą dziur po klawiszach, zakładanie na
 Zrobiłem niesymetryczny układ przycisków numerycznych gdyż taki mi się podoba :D
 
 ### System
-Do niedawna nie mieliśmy polskiego systemu stenotypii ale na szczęście to się zmieniło. Priscilla Trillo wykonała niesamowity ogrom pracy i przygotowała podręcznik z opisem systemu nie tylko dla języka polskiego ale również dla czeskiego i słowackiego! Opis systemu "**West Slavic Machine Stenography**" jest do pobrania [TUTAJ](https://github.com/Plover-Trillo/WestSlavicStenography/releases) całkowicie za darmo. Teraz nie ma już żadnego usprawiedliwienia. Wystarczy "tylko" usiąść do lektury opasłego tomiska i się uczyć. 
+Do niedawna nie mieliśmy polskiego systemu stenotypii ale na szczęście to się zmieniło. Priscilla Trillo wykonała niesamowity ogrom pracy i przygotowała podręcznik z opisem systemu nie tylko dla języka polskiego ale również dla czeskiego i słowackiego! Opis systemu "**West Slavic Machine Stenography**" jest do pobrania [TUTAJ](https://github.com/Plover-Trillo/WestSlavicStenography/releases) całkowicie za darmo. Teraz nie ma już żadnego usprawiedliwienia. Wystarczy "tylko" usiąść do lektury opasłego tomiska i się uczyć.   
+Jak to przy takich opracowaniach (zwłaszcza w pierwszych ich wersjach) w treści mogą pojawiać się błędy. Te które udało mi się wyłapać spisuję tutaj: [Errata] (https://github.com/Jamers303/Steno_PL/tree/main/Errata)
 
 
 ### Oprogramowanie
