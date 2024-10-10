@@ -26,6 +26,10 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 96 | 23 | - | zż = ZTP | zż = ZTPJ | Akord nie oznaczony jako wyjątek więc chyba pomyłka. |
 | 97 | 23 | - | ts = ZS* | ts = ST* | Dla słowackiego mamy ST* więc czemu nie dla polskiego? Akord bardziej naturalny. |
 | 99 | 23 | 27 | dżem, dżudo | - | Przyklady niepotrzebne w tym ćwiczeniu ponieważ nie ćwiczą żadnej z opisywanych kombinacji. |
+| 109 | 25 | - | RGW = rgł | RGW = rgł, rcz | zabrakło tutaj "rcz" |
+| 109 | 25 | - | RTW = rci | RTW = rci, rtw | zabrakło "rtw" |
+| 111 | 25 | 29 | blask | - | wyraz "blask" nie pasuje do tej lekcji; "sk"=LS dla kombinacji prawostronnej więc ten wyraz powinien był się znaleźć w ćwiczeniu 28 |
+
 
 
 
