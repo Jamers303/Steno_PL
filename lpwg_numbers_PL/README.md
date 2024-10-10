@@ -8,7 +8,7 @@ sposobu uzyskania cyfr na klawiaturze stenotypicznej. Moja propozycja to transla
 Prawy kciuk jestodpowiedzialny za uzyskanie cyfr: 0 (A), 00 (U) lub 000 (AU).  
 Klawisze A i U można łączyć z -C -L -S -R -B -G w celu uzyskania gotowych liczb. Np. #AC = 70, #US=900, #AUB=2000.  
 Cyfry domyślnie wstawiane są w trybie "zlepiania". W celu pisania oddzielnych cyfr należy oprócz klawisza "#" użyć jeszcze dodatkowo lewego L (jak **L**uzem).  
-Jako bonus w tym słowniku zdefiniowane zostało użycie samego klawisza "#" jako powtórzenie ostatniego akordu.
+Jako bonus w tym słowniku zdefiniowane zostało użycie samego klawisza "#" jako powtórzenie ostatniego akordu (działa nie tylko na akordy z tego słownika tylko ogólnie - na wszystkie jakie tylko uda wam się wcisnąć).
 
 
 | Akord    |  Cyfra/Liczba  | 
