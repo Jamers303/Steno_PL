@@ -31,11 +31,12 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 109 | 25 | - | RGW = rgł | RGW = rgł, rcz | zabrakło tutaj "rcz" |
 | 109 | 25 | - | RTW = rci | RTW = rci, rtw | zabrakło "rtw" |
 | 111 | 25 | 29 | blask | - | wyraz "blask" nie pasuje do tej lekcji; "sk"=LS dla kombinacji prawostronnej więc ten wyraz powinien był się znaleźć w ćwiczeniu 28 |
-| 129 | 26 | 31 | zbrydzić | zbrzydzić | Pomyłka |
-| 129 | 26 | 31 | zgreszyć | zgrzeszyć | j.w. |
-| 129 | 26 | 31 | schrypać | schrupać | j.w. |
-| 129 | 26 | 31 | wyspnąć | wypsnąć | j.w. |
-| 130 | 26 | 31 | wlęsło | wklęsło | j.w. |
+| 113 | 26 | - | CBSW = jsi | CBSW = jsi, mp, pm| zabrakło "pm" i "mp" |
+| 129 | 27 | 31 | zbrydzić | zbrzydzić | Pomyłka |
+| 129 | 27 | 31 | zgreszyć | zgrzeszyć | j.w. |
+| 129 | 27 | 31 | schrypać | schrupać | j.w. |
+| 129 | 27 | 31 | wyspnąć | wypsnąć | j.w. |
+| 130 | 27 | 31 | wlęsło | wklęsło | j.w. |
 
 
 
