@@ -16,11 +16,13 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 75 | 20 | - | žn | żn | j.w. |
 | 75 | 20 | - | mnią | mię | Tak na prawdę nie wiem co to miał być za wyraz. "Mię" wydaje się stare i manieryczne...|
 | 76 | 20 | - | dzb = ZSP | dzb = ZSPJ | Raczej oczywista pomyłka. |
+| 77 | 20 | 24 | The left curly bracket is written as KTPV-LBSG | The left curly bracket is written as ZSKT-SGTW | Akord KTPV-LBSG jest już zdefiniowany dla nawiasu kwadratowego ([). Proponuję tutaj wstawić ZSKT-SGTW bo taki mamy później zdefiniowany dla klamry. |
 | 78 | 20 | 24 | wamy | - | Ten przykład jest wpisany omyłkowo. |
 | 81 | 21 | - | between Ś and Ź and S and Z | between Ś and S and Ź and Z | Chyba taki szyk byłby bardziej nautralny. |
 | 81 | 21 | - | zdż = ZPV | zdż = ZPVJ | Akord nie jest oznaczony na czerwono jako wyjątek więc to chyba pomyłka. |
 | 82 | 21 | - | żm = KTP | żm = KTPJ | Akord dla "żm" nie jest oznaczony jako wyjątek więc chyba pomyłka. KTPJ byłby też zgodny z akordem dla "mż". |
 | 82 | 21 | - | - | szm = KTP | Brakuje mi "szm" w kombinacjach kończącej się na M (jak dla wyrazu "szmat"). Proponuję tą kombinację dopisać. |
+| 84 | 21 | 25 | right curly bracket is written as ZSKT-SGTW | right curly bracket is written as ZSKT\*SGTW | Proponuję zachować podobieństwo do znaków [ ]  (KTPV-LBSG oraz KTPV\*LBSG) i dla { } zdefiniować ZSKT-SGTW dla lewego i ZSKT\*SGTW dla prawego |
 | 85 | 21 | 25 | cworo | czworo | Pomyłka. |
 | 96 | 23 | - | tz = ZSJ | tz = ZT* | Czy taki akord nie byłby bardziej naturalny? |
 | 96 | 23 | - | zż = ZTP | zż = ZTPJ | Akord nie oznaczony jako wyjątek więc chyba pomyłka. |
