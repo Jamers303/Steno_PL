@@ -2,7 +2,7 @@
 
 Celem pojektu Steno_PL jest publikacja słowników zgodnych z Plover i z wtyczką Slowik, przeznaczonych dla systemu polskiej stenotypii.  
 ## Aktualnie opublikowane słowniki:
-* [Trillo_Exercises_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL) - słownik obsługujący wszystkie słowa, rdzenie, przedrostki, przyrostki i inne literały użyte w ćwiczeniach zawartych w podręczniku "West Slavic Machine Stenography" autorstwa Priscilli Trillo
+* [Trillo_Exercises_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL) - słownik obsługujący wszystkie słowa i literały użyte w ćwiczeniach zawartych w podręczniku "West Slavic Machine Stenography" autorstwa Priscilli Trillo
 * [plvr_commands_PL](https://github.com/Jamers303/Steno_PL/tree/main/plvr_commands_PL) - słownik obsługujący komendy oprogramowania Plover
 * [plvr_extra_form_PL](https://github.com/Jamers303/Steno_PL/tree/main/plvr_extra_form_PL) - słownik z dodatkowym formatowaniem
 * [Trillo_Letters_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Letters_PL) - słownik z literami
