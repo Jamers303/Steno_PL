@@ -1,50 +1,49 @@
-Zaczynamy lekcje z kombinacjami spółgłosek jak również z dzieleniem wyrazów - od teraz dla jednego wyrazu może występować wiele możliwych zestawów akordów.
-
-
+Zaczynamy lekcje z kombinacjami spółgłosek. Z treści opisu do ćwiczenia 21 może to wprost nie wynikać ale intencją autorki jest to, że w tym i kolejnych ćwiczeniach wpisujemy tylko rdzeń wyrazu. Pełne wyrazy będziemy wklepywać dopiero od ćwiczenia 34 (gdzie jest to już wyraźnie napisane).   
+Dla lekcji 21-33 zamieszczam ćwiczenia już wstępnie "obrobione" czyli zawierające tylko rdzenie wyrazów (po usunięciu ewentualnych prefiksów i sufiksów).
 
 <pre>
-gjuwecz	KJUW/EGW	
-pjany	PJACL/IAU	
-pjanica	PJACL/IC/A	PJACLW/ZSA
-sjena	SJECL/A	
-sjesta	SJEST/A	
-tjandi	TJACL/TJI	
-wjazd	VJA/BST	VJABS/TJ
-wjechać	VJECG/ATO	
-zjawa	ZJAW/A	
-zjed	ZJEBT	
-brać	PRJATO	
-broda	PRJAUBT/A	
-chrap	KTRABW	
-chrobot	KTRAUB/AUT	KTRAUBO/T
-drab	TRJAB	
-drugi	TRJUG/I	
-fraza	FRABS/A	
-fruwać	FRUW/ATO	
-grom	KRJAUCS	
-grób	KRJUB	
-hrabina	KTRJAB/ICL/A	
-hrym	KTREIAUCS	
-krach	KRACG	
-kruża	KRUBSG/A	
-mroz	KPRAUBS	
-mrówa	KPREIUW/A	
-praca	PRAC/A	
-pruć	PRUTO	
-srogi	SRAUG/I	
-sraczyk	SRAGW/IAUBG	
-średni	SREBT/LRI	
-śron	SRAUCL	
-szrafy	TPRAWY/IAU	
-szrot	TPRAUT	
-tram	TRACS	
-trud	TRUBT	
-wrota	VRAUT/A	
-wrąb	VREAUB	
-zranić	ZRACL/ITO	ZRACLW/T~
-zrosnąć	ZRAUS/LREAUTO	
-źreb	ZREB	
-źródło	ZREIUBT/LJAU	
-żrący	TPRJEAUC/IAU	TPRJEAUCY
-żreć	TPRJETO	
+gjuw	KJUW
+pjany	PJACLY
+pjan	PJACL
+sjen	SJECL
+sjest	SJEST
+tjan	TJACL
+wjazd	VJABST
+wjech	VJECG
+zjaw	ZJAW
+zjed	ZJEBT
+brać	PRJATO
+brod	PRJAUBT
+chrap	KTRABW
+chrob	KTRAUB
+drab	TRJAB
+drug	TRJUG
+fraz	FRABS
+fruw	FRUW
+grom	KRJAUCS
+grób	KRJUB
+hrab	KTRJAB
+hrym	KTREIAUCS
+krach	KRACG
+kruż	KRUBSG
+mroz	KPRAUBS
+mrów	KPREIUW
+prac	PRAC
+pruć	PRUTO
+srog	SRAUG
+sracz	SRAGW
+śred	SREBT
+śron	SRAUCL
+szraf	TPRAWY
+szrot	TPRAUT
+tram	TRACS
+trud	TRUBT
+wrot	VRAUT
+wrąb	VREAUB
+zran	ZRACL
+zros	ZRAUS
+źreb	ZREB
+źród	ZREIUBT
+żrący	TPRJEAUCY
+żreć	TPRJETO
 </pre>
