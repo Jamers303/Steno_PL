@@ -1,54 +1,54 @@
 <pre>
-bzdet	ZTPE*T		
-bzdura	ZTP*UR/A		
-bździak	ZTP*IABG		
-bździć	ZTP*ITO		
-bżdżę	ZTPJE*IA		
-dzban	ZTP*ACL		
-dzbankowaty	ZTP*ACLBG/AUW/AT/IAU		
-Gwdzie	ZSKVE*I	ZSKVE*	
-kształt	KTP*ALBT		
-ksztyna	KTP*ICL/A		
-mstowski	SKTP*AUSGW/I		
-mszczenie	KTPVECL/EI	KTPVECLW/E	
-Mszczuj	KTPVUCB		
-mściciel	SKTP*IC/EIL	SKTP*ITW/EL	
-mściwy	SKTP*IW/IAU	SKTP*IWY	
-pskowski	SKP*AUSGW/I		
-Psków	SKPE*IUW		
-pszczelnik	TPVE*CRL/IBG	TPVE*CRLW/K	
-pszczoła	TPV*AULB/A		
-stchórzyć	SKTE*IUCRB/IAUTO	SKTE*IUCRBY/T~	
-szczmiel	KTPVE*IL		
-wdmuchnąć	FKTPUCLG/EAUTO		
-wschody	FSKTAUBT/IAU		
-wschód	FSKTEIUBT		
-wskakiwać	FSKABG/IW/ATO		
-wskórać	FSKEIUR/ATO		
-wsmarować	FSKPAR/AUW/ATO	FSKPARO/VATO	
-wspak	FSPABG		
-wspornik	FSPAUCRL/IBG	FSPAUCRLW/K	
-wstać	FSTATO		
-wstecz	FSTEGW		
-wszcząć	FTPVEAUTO		
-wszczepić	FTPVEBW/ITO		
-wsztukować	FTP*UBG/AUW/ATO		
-wściec	FSTEC	FSTEIC	
-wściubić	FSTIUB/ITO	FSTUB/ITO	
-wśpiewać	FSPEIW/ATO		
-wzbić	FSPITO		
-wzburzyć	FSPUCRB/IAUTO	FSPUCRBY/T~	
-wzdęty	FSTEIAT/IAU		
-wzdych	FSTICG		
-wzgarda	FSKARBT/A		
-wzgórek	FSKEIUR/EBG		
-wzmagać	FSKPAG/ATO		
-wzmożony	FSKPAUBSG/AUCL/IAU	FSKPAUBSG/AUCLY	
-wżdy	FTP*I		
-wżdyć	FTP*ITO		
-zdmuchnąć	ZKTPUCLG/EAUTO		
-zgburowacieć	ZKPUR/AUW/AC/EITO	ZKPURO/VAC/EITO	ZKPURO/VATW/ETO
-zstąpić	ZSTEAUBW/ITO		
-zstępny	ZSTEIACLB/IAU	ZSTEIACLBY	
-źdźbeł	ZTPE~LB		
+bzdet	ZTPE*T	
+bzdur	ZTP*UR	
+bździak	ZTP*IABG	
+bździć	ZTP*ITO	
+bżdżę	ZTPJE*IA	
+dzban	ZTP*ACL	
+dzbank	ZTP*ACLBG	
+Gwdzie	ZSKVE*I	ZSKVE*
+kształt	KTP*ALBT	
+ksztyn	KTP*ICL	
+mstowsk	SKTP*AUSGW	
+mszczen	KTPVECL	
+Mszczuj	KTPVUCB	
+mścic	SKTP*IC	
+mściw	SKTP*IW	
+pskow	SKP*AUW	
+Psków	SKPE*IUW	
+pszczeln	TPVE*CRL	
+pszczoł	TPV*AULB	
+stchórz	SKTE*IUCRB	
+szczmiel	KTPVE*IL	
+wdmuchn	FKTPUCLG	
+wschod	FSKTAUBT	
+wschód	FSKTEIUBT	
+wskak	FSKABG	
+wskór	FSKEIUR	
+wsmar	FSKPAR	
+wspak	FSPABG	
+wsporn	FSPAUCRL	
+wstać	FSTATO	
+wstecz	FSTEGW	
+wszcząć	FTPVEAUTO	
+wszczep	FTPVEBW	
+wsztuk	FTP*UBG	
+wściec	FSTEC	FSTEIC
+wściub	FSTIUB	FSTUB
+wśpiew	FSPEIW	
+wzbić	FSPITO	
+wzburz	FSPUCRB	
+wzdęt	FSTEIAT	
+wzdych	FSTICG	
+wzgard	FSKARBT	
+wzgór	FSKEIUR	
+wzmag	FSKPAG	
+wzmoż	FSKPAUBSG	
+wżdy	FTP*I	
+wżdyć	FTP*ITO	
+zdmuchn	ZKTPUCLG	
+zgbur	ZKPUR	
+zstąp	ZSTEAUBW	
+zstępn	ZSTEIACLB	
+źdźbeł	ZTPE~LB	
 </pre>
