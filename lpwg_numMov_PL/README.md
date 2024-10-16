@@ -1,6 +1,10 @@
-## Słownik cyfr i liczb
+## Słownik cyfr, liczb i przemieszczania kursora
 
-Tutaj znajduje się słownik dla liczb i cyfr. Rozdział w podręczniku Priscilli Trillo opisujący "wklepywanie" numerków daje czytelnikowi wolną rękę w sprawie 
+Tutaj znajduje się słownik umożliwiający wprowadzanie liczb i cyfr oraz przemieszczeanie kursora.  
+
+### Cyfry i liczby
+
+Rozdział w podręczniku Priscilli Trillo opisujący "wklepywanie" numerków daje czytelnikowi wolną rękę w sprawie 
 sposobu uzyskania cyfr na klawiaturze stenotypicznej. Moja propozycja to translacja metody opisanej w systemie [lapwing](https://lapwing.aerick.ca/), zakładającej użycie klawisza "#" lewą ręką, prawa zaś pozostaje w pozycji bazowej i korzysta z klawiszy -C -L -S i -R -B -G jak z bloku numerycznego na zwykłej klawiaturze. Mam nadzieję, że poniższy obrazek wszystko dobrze objaśnia.
 
 ![Układ cyfr](ukladNum.png)
@@ -30,4 +34,8 @@ Jako bonus w tym słowniku zdefiniowane zostało użycie samego klawisza "#" jak
 | #AU[-C -L -S -R -B -G] | [1-9]000 |
 | #L[A U -C -L -S -R -B -G] | cyfry/liczby bez trybu "zlepiania"|
 | # | powtórzenie ostatniego akordu |
+
+
+### Przemieszczanie kursora
+
 
