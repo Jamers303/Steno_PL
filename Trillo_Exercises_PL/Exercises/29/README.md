@@ -1,33 +1,33 @@
 W tym ćwiczeniu mamy w podręczniku wyraz "blask" ale on powinien trafić do ćwiczenia 28, ponieważ "sk" = -LS dla kombinacji prawostronnej. 
 Tak więc usuwam "blask" z tego ćwiczenia.
 <pre>
-singel	SICLG/EL
+sing	SICLG
 tarcz	TARGW
-kwadra	KVARBT/A
+kwadr	KVARBT
 dość	TJAUSTO
 wiersz	VEIRSG
 park	PARBG
-taszczyć	TASGW/IAUTO
+taszcz	TASGW
 karp	KARBW
-jazda	JABST/A
-wnętrze	VLREIACRT/E
+jazd	JABST
+wnętrz	VLREIACRT
 jadł	JALBT
-wojtek	VAUCBT/EBG
+wojt	VAUCBT
 mógł	KPEIULBG
 wilk	VILGY
-derma	TJECRS/A
+derm	TJECRS
 męstwo	KPEIASWY
-tarło	TARLB/AU
-szarfa	TPARWY/A
+tarł	TARLB
+szarf	TPARWY
 ruszt	RUSGT
-martwić	KPARTW/ITO
+martw	KPARTW
 mózg	KPEIUBSG
-plomba	PLAUCBS/A
-makrela	KPARBG/EL/A
-magma	KPACSG/A
+plomb	PLAUCBS
+makr	KPARBG
+magm	KPACSG
 film	FICLS
 tekst	TELST
-nazwa	LRABSW/A
+nazw	LRABSW
 smardz	SKPACRW
-szachta	TPACGT/A
+szacht	TPACGT
 </pre>
