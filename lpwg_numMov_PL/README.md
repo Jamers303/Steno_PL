@@ -1,6 +1,6 @@
 ## Słownik cyfr, liczb i przemieszczania kursora
 
-Tutaj znajduje się słownik umożliwiający wprowadzanie liczb i cyfr oraz przemieszczeanie kursora.  
+Tutaj znajduje się słownik umożliwiający wprowadzanie liczb i cyfr oraz przemieszczanie kursora.  
 
 ### Cyfry i liczby
 
