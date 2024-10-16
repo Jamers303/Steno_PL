@@ -38,4 +38,9 @@ Jako bonus w tym słowniku zdefiniowane zostało użycie samego klawisza "#" jak
 
 ### Przemieszczanie kursora
 
+![Układ ruchu 1](ukladMov.png)
+
+![Układ ruchu 2](ukladMov2.png)
+
+
 
