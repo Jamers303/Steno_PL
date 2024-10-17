@@ -16,7 +16,7 @@ Akordy praktycznie bez zmian co do zaprezentowanych w tabelkach w podręczniku, 
 
 ### Formatowanie
 
-Zachęcony przez autorkę do uzupełnienia formatowań dopisałem do słownika trochę fajnych możliwości formatowań oferowanych przez Plover (czyli uzupełniełem tabelkę dla akordów -CRLBSGTW). Dodatkowo dołożyłem pusty infiks (Null Infix) i infiks rozdzielający (Spacing Infix) oraz parę wygodnych skrótów skrótów.
+Zachęcony przez autorkę do uzupełnienia formatowań dopisałem do słownika trochę fajnych możliwości formatowań oferowanych przez Plover (czyli uzupełniełem tabelkę dla akordów -CRLBSGTW). Dodatkowo dołożyłem pusty infiks (Null Infix) i infiks rozdzielający (Spacing Infix) oraz parę wygodnych skrótów.
 Pełna tabelka formatowań wygląda następująco:
 
 |   Arkord    |   Komenda    |
@@ -27,7 +27,7 @@ Pełna tabelka formatowań wygląda następująco:
 | P-CRLBSGTW | **P**aginacja - nowa strona (Ctrl+Enter) |
 | L-CRLBSGTW | Nowa **L**inia (czyli Enter)|
 |   R-R       |  Nowa Linia - wygodny skrót   |
-| F-CRLBSGTW | **F**ragmentuj poprzedni wyraz - wstawianie spacji przed poprzednim akordem (czyli rozbicie właśnie wpisanego wyrazu złożonego z wielu akordów) |
+| F-CRLBSGTW | **F**ragmentuj poprzedni wyraz - wstawianie spacji przed poprzednim akordem  |
 | S-CRLBSGTW | **S**cal poprzedni wyraz - czyli usunięcie spacji sprzed poprzedniego wyrazu  |
 | T-CRLBSGTW |  **T**abulacja (klawisz Tab) |
 |   L-C       |  Tabulacja - wygodny skrót     |
