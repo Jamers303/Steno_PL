@@ -1,13 +1,14 @@
 Kolejne długaśne ćwiczenie ale za to piszemy już całe wyrazy!   
-Od teraz można poczuć bardzo profesjonalnie - szkoda tylko, że w testach mam cały czas poniżej 10 WPM :)  
+Od teraz można poczuć się bardzo profesjonalnie - szkoda tylko, że w testach mam cały czas poniżej 10 WPM :)  
 W słowniku zamieściłem wszystkie sufiksy podane przez autorkę w lekcji 30 oraz dopisałem wiele nowych, tak żeby dało się przejść przez ćwiczenie 34. 
-Czasami musiałem się dość nagimnastykować, żeby wygenerować sufiks, np. chcę stworzyć sufiks "owa" (tak, żeby nie trzeba było oddzielnie wklepywać "ow"/"a"):
+Czasami musiałem się dość nagimnastykować, żeby wygenerować sufiks, np.:
+* chcę stworzyć sufiks "owa" (tak, żeby nie trzeba było oddzielnie wklepywać "ow"/"a"):
 * zaczynamy od helpera i "ow" czyli: ZKPLAUW
 * chcemy wcisnąć jeszcze a z prawej strony, czyli wychodzi nam (zgodnie z dodaktiem C z podręcznika): ZKPLAUWOY
 * ale nie da się wcisnąć prawym małym palcem WOY, wobec czego stosujemy "key switching" (strona 206 w podręczniku) i ostatecznie dostajemy: ZKPLAUCOY
 
 Na szczęście 99% sufiksów jest o wiele prostsza niż ten przykład. Poza tym zawsze możemy sufiks "rozdrobnić" na mniejsze częsci jeżeli z jakimś mamy problem...
-W tej lekcji jest dużo błędów przy sufiksach (autorce pomylił się akord dla "ą" i "ę"). Zachęcam do zerknięcia w Erratę.
+W tej lekcji jest dużo błędów przy sufiksach (autorce pomylił się akord dla "ą" i "ę"). Zachęcam do zerknięcia w [Erratę](https://github.com/Jamers303/Steno_PL/tree/main/Errata).
 <pre>
 prosta	PRAUST/ZKPLA
 skuteczniej	SKUT/ZKPLEGW/XFLREICB
