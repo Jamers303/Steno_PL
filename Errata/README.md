@@ -37,6 +37,32 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 129 | 27 | 31 | schrypać | schrupać | j.w. |
 | 129 | 27 | 31 | wyspnąć | wypsnąć | j.w. |
 | 130 | 27 | 31 | wlęsło | wklęsło | j.w. |
-
+| 154 | 30 | - | ą=ZKPLEAI | ą=ZKPLEAU | pomyłka |
+| 154 | 30 | - | bą=XFPJEIA | bą=XFPJEAU | j.w. |
+| 154 | 30 | - | bę=XFPJEAU | bę=XFPJEIA | j.w. |
+| 154 | 30 | - | cami=ZSKPIOY | cami=ZSIACSOY | Akord ZSKPIOY dubluje się z akordem dla "ckimi", proponuję dla "cami" akord ZSIACSOY |
+| 154 | 30 | - | cką=ZSKEIAOY | cką=ZSKEAUOY | pomyłka |
+| 155 | 30 | - | cowi=ZSWIOY | cowi=ZSVIOY | j.w. |
+| 155 | 30 | - | czą=XFPVEIA | czą=XFPVEAU | j.w. |
+| 155 | 30 | - | ę=ZKPLEAU | ę=ZKPLEIA | j.w. |
+| 155 | 30 | - | ęc=ZKPLEAUC | ęc=ZKPLEIAC | j.w. |
+| 155 | 30 | - | ęstw=ZKPLEAUSWY | ęstw=ZKPLEIASTW | j.w. |
+| 155 | 30 | - | ęt=ZKPLEAUT | ęt=ZKPLEIAT | j.w. |
+| 155 | 30 | - | ią=ZKPLJEIA | ią=ZKPLJEAU | j.w. |
+| 156 | 30 | - | ię=ZKPLJEAU | ię=ZKPLJEIA | j.w. |
+| 156 | 30 | - | ją=XFJEIA | ją=XFJEAU | j.w. |
+| 156 | 30 | - | ję=XFJEAU | ję=XFJEIA | j.w. |
+| 156 | 30 | - | kę=XFKEAU | kę=XFKEIA | j.w. |
+| 156 | 30 | - | ną=XFLREIA | ną=XFLREAU | j.w. |
+| 157 | 30 | - | nią=XFLRJEIA | nią=XFLRJEAU | j.w. |
+| 157 | 30 | - | niąt=XFLRJEIAT | niąt=XFLRJEAUT | j.w. |
+| 157 | 30 | - | nię=XFLRJEAU | nię=XFLRJEIA | j.w. |
+| 157 | 30 | - | nięc=XFLRJEAUC | nięc=XFLRJEIAC | j.w. |
+| 157 | 30 | - | nięt=XFLRJEAUT | nięt=XFLRJEIAT | j.w. |
+| 157 | 30 | - | ostw=ZKPLOSWY | ostw=ZKPLAUSTW | j.w. |
+| 157 | 30 | - | owi=ZKPLOWY | owi=ZKPLAUWY | j.w. |
+| 157 | 30 | - | ską=SKEIAOY | ską=SKEAUOY | j.w. |
+| 158 | 30 | - | szą=XFTPEIA | szą=XFTPEAU | j.w. |
+| 158 | 30 | - | ych=ZKPLIAUCB | ych=ZKPLIAUCG | j.w. |
 
 
