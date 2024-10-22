@@ -22,8 +22,8 @@ Gdy już poznamy czym jest stenotypia to pora odpowiedzieć sobie na pytanie - c
 Skąd to wszystko wziąć? No to po kolei...
 
 ### Klawiatura
-Z klawiaturami stenotypicznymi jest ten problem, że kosztują majątek. Dodatkowo nie każda pasuje do każdego systemu. Lepszym rozwiązaniem (przynajmniej na początek przygody ze stenotypią) wydaje się przystosowanie sobie "normalnej" klawiatury mechanicznej. Niestety to musi być klawiatura mechaniczna (tak więc tanie klawiatury za kilkadziesiąt PLN odpadają) ponieważ musi rejestrować wiele naciśniętych klawiszy jednocześnie (tzw. NKRO - N-Key Rollover).
-Do takiej klawiatury powinniśmy wydrukować sobie specjalne nakładki "prostujące" układ klawiatury i zbliżające klawisze do siebie. Na sieci można znaleźć gotowe pliki .stl z takim nakładkami, które możemy pobrać i wydrukować na drukarce 3d. Przykładowe model poniżej:
+Z klawiaturami stenotypicznymi jest ten problem, że kosztują majątek. Dodatkowo nie każda pasuje do każdego systemu. Lepszym rozwiązaniem (przynajmniej na początek przygody ze stenotypią) wydaje się przystosowanie sobie "normalnej" klawiatury mechanicznej. Niestety to musi być klawiatura mechaniczna (tak więc tanie klawiatury za kilkadziesiąt PLN odpadają) ponieważ musi rejestrować wiele naciśniętych klawiszy jednocześnie (tzw. NKRO - N-Key Rollover). Dodatkowo polecam poszukać klawiatury z liniowymi przełącznikami o jak najmniejszej sile nacisku (np. Outemu Peach Silent). 
+Do takiej klawiatury powinniśmy wydrukować sobie specjalne nakładki "prostujące" układ klawiatury i zbliżające klawisze do siebie. Na sieci można znaleźć gotowe pliki .stl z takim nakładkami, które możemy pobrać i wydrukować na drukarce 3d (jeżeli nie mamy dostępu do drukarki 3d to możemy zlecić taki wydruk, np. tutaj: [https://drukarex.pl/](https://drukarex.pl/) ). Przykładowe modele poniżej:
 * dla przełączników klawiaturowych typu Cherry MX: [https://cemrajc.github.io/stenotoppers/](https://cemrajc.github.io/stenotoppers/)
 * dla przełączników klawiaturowych typu Outemu: [https://aerick.ca/steno/outemu-stenotoppers/](https://aerick.ca/steno/outemu-stenotoppers/)
 
@@ -31,11 +31,13 @@ Później musimy jeszcze pobawić się trochę wyciągając z klawiatury niepotr
 
 ![Układ polski steno](uklad.png)
 
-Odrobina zabawy w zaklejanie czarną taśmą dziur po klawiszach, zakładanie nakładek i ostatecznie otrzymujemy coś w tym kształcie:
+Odrobina zabawy w zaklejanie czarną taśmą/papierem dziur po klawiszach, zakładanie nakładek i ostatecznie otrzymujemy coś w tym kształcie (poniżej wersja z niesymetrycznym układem przycisków numerycznych):
 
 ![Moja klawiatura steno](moja.png)
 
-Zrobiłem niesymetryczny układ przycisków numerycznych gdyż taki mi się podoba :D
+A jak się rozpędzimy to możemy pofantazjować z kolorkami i układem (poniżej wersja bez przycisków numerycznych, z wyróżnionym przyciskiem X - który może również służyć jak przycisk #):
+
+![Druga klawiatura steno](nowa.png)
 
 ### System
 Do niedawna nie mieliśmy polskiego systemu stenotypii ale na szczęście to się zmieniło. Priscilla Trillo wykonała niesamowity ogrom pracy i przygotowała podręcznik z opisem systemu nie tylko dla języka polskiego ale również dla czeskiego i słowackiego! Opis systemu "**West Slavic Machine Stenography**" jest do pobrania [TUTAJ](https://github.com/Plover-Trillo/WestSlavicStenography/releases) całkowicie za darmo. Teraz nie ma już żadnego usprawiedliwienia. Wystarczy "tylko" usiąść do lektury opasłego tomiska i się uczyć.   
