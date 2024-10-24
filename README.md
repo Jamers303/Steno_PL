@@ -27,7 +27,7 @@ Do takiej klawiatury powinniśmy wydrukować sobie specjalne nakładki "prostuj�
 * dla przełączników klawiaturowych typu Cherry MX: [https://cemrajc.github.io/stenotoppers/](https://cemrajc.github.io/stenotoppers/)
 * dla przełączników klawiaturowych typu Outemu: [https://aerick.ca/steno/outemu-stenotoppers/](https://aerick.ca/steno/outemu-stenotoppers/)
 
-Później musimy jeszcze pobawić się trochę wyciągając z klawiatury niepotrzebne klawisze, zostawiając te które pasują do układu polskiej klawiatury stenograficznej. Układ ten wygląda następująco:
+Później musimy jeszcze pomęczyć się trochę wyciągając z klawiatury niepotrzebne klawisze, zostawiając te które pasują do układu polskiej klawiatury stenograficznej. Układ ten wygląda następująco:
 
 ![Układ polski steno](uklad.png)
 
@@ -38,6 +38,10 @@ Odrobina zabawy w zaklejanie czarną taśmą/papierem dziur po klawiszach, zakł
 A jak się rozpędzimy to możemy pofantazjować z kolorkami i układem (poniżej wersja bez przycisków numerycznych, z wyróżnionym przyciskiem X - który może również służyć jak przycisk #):
 
 ![Druga klawiatura steno](nowa.png)
+
+Albo upodobnić swoją nową klawiaturę do starego, dobrego ZXa :D
+
+![steno ZX](ZXsteno.png)
 
 ### System
 Do niedawna nie mieliśmy polskiego systemu stenotypii ale na szczęście to się zmieniło. Priscilla Trillo wykonała niesamowity ogrom pracy i przygotowała podręcznik z opisem systemu nie tylko dla języka polskiego ale również dla czeskiego i słowackiego! Opis systemu "**West Slavic Machine Stenography**" jest do pobrania [TUTAJ](https://github.com/Plover-Trillo/WestSlavicStenography/releases) całkowicie za darmo. Teraz nie ma już żadnego usprawiedliwienia. Wystarczy "tylko" usiąść do lektury opasłego tomiska i się uczyć.   
