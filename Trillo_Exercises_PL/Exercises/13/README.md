@@ -1,9 +1,10 @@
+Akord "her"=KTJER dubluje się w przyszłych ćwiczeniach z "gder" dlatego zmieniam go na alternatywny: KTJE*R
 <pre>
 hal	KTJAL
 char	KTAR
 cel	ZSEL
 rzuc	RJUC
-her	KTJER
+her	KTJE*R
 chir	KTIR
 ceb	ZSEB
 rzyg	REIAUG
