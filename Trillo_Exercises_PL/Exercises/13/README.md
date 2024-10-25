@@ -1,4 +1,5 @@
-Akord "her"=KTJER dubluje się w przyszłych ćwiczeniach z "gder" dlatego zmieniam go na alternatywny: KTJE*R
+Akord "her"=KTJER dubluje się w przyszłych ćwiczeniach z "gder" dlatego zmieniam go na alternatywny: KTJE\*R  
+I podobnie "chór"=KTEIUR dubluje się w przyszłych ćwiczeniach z "któr" dlatego zmieniam go na: KTE\*IUR
 <pre>
 hal	KTJAL
 char	KTAR
@@ -9,7 +10,7 @@ chir	KTIR
 ceb	ZSEB
 rzyg	REIAUG
 har	KTJAR
-chór	KTEIUR
+chór	KTE*IUR
 hot	KTJAUT
 cyw	ZSIAUW
 chyb	KTIAUB
