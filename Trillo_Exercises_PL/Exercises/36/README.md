@@ -1,5 +1,6 @@
 W ćwiczeniu 36 mamy złożenia prefiksów, rdzeni i ewentualnie sufiksów.  
-Niektóre z tych złożeń są dość nieoczywiste ale mam nadzieję, że wszystkie odpowiadają teorii z podręcznika.
+Niektóre z tych złożeń są dość nieoczywiste ale mam nadzieję, że wszystkie odpowiadają teorii z podręcznika.  
+Do słownika dołożyłem wszystkie prefiksy opisane w lekcji 32
 
 <pre>
 rozkład	R*AUS/KLJABT
