@@ -86,4 +86,8 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 185 | 31 | 35 | wozę | wiozę | Pomyłka. |
 | 185 | 31 | 35 | blądź | błądź | j.w. |
 | 185 | 31 | 35 | rósl | rósł | j.w. |
-
+| 195 | 32 | - | poprez | - | Chyba miało być "poprzez" ale nie wiem jaki tu miał być akord... |
+| 196 | 32 | - | spoza=SPOSOY | spoza=SPAUSOY | Pomyłka. |
+| 196 | 32 | - | znad(e)=ZLRAUBT,ZLRAUBTO | znad(e)=ZLRABT,ZLRABTO | j.w. |
+| 198 | 32 | - | techno=T*ECLGO | techno=TE*CLGO | j.w. |
+| 203 | 32 | 36 | przyciemnic | przyciemnić | j.w. |
