@@ -1,7 +1,6 @@
 W ćwiczeniu 36 mamy złożenia prefiksów, rdzeni i ewentualnie sufiksów.  
 Niektóre z tych złożeń są dość nieoczywiste ale mam nadzieję, że wszystkie odpowiadają teorii z podręcznika.  
-Do słownika dołożyłem wszystkie prefiksy opisane w lekcji 32
-
+Do słownika dołożyłem wszystkie prefiksy opisane w lekcji 32. Niestety i do tej lekcji wkradło się parę błędów - zapraszam do [Erraty](https://github.com/Jamers303/Steno_PL/tree/main/Errata)
 <pre>
 rozkład	R*AUS/KLJABT
 północ	PE*IULB/LRAUC
