@@ -1,5 +1,5 @@
-W ćwiczeniu 37 mamy ćwiczenie z kombinowanymi przyimkami "z/ze", "w/we", "ku". Niektóre akordy wyglądają dziwnie ale wynika to z konieczności i zastosowania "key switching" ze strony 206 podręcznika.
-Nie we wszystkich przypadkach da się skombinować przyimek z rdzeniem słowa - w takim przypadku należy przyimek wpisać oddzielnie.
+W ćwiczeniu 37 mamy ćwiczenie z kombinowanymi przyimkami "z/ze", "w/we", "ku". Niektóre akordy wyglądają dziwnie ale wynika to z konieczności zastosowania "key switching" ze strony 206 podręcznika.
+Nie zawsze da się skombinować przyimek z rdzeniem słowa - w takim wypadku należy przyimek wpisać oddzielnie.
 <pre>
 z jego	ZJEGOY/ZKPLAU
 z dodatkiem	ZTJAUBTOY/ZKPLAT/XFKEICS
