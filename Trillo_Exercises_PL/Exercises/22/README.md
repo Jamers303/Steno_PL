@@ -3,6 +3,7 @@ Wydaje mi się, że to zwykłe literówki, więc zmieniam zgodnie ze zdrowym roz
 * Dla kombinacji "gl" występuje akord "KRL" - zmieniam na "KLJ"
 * Dla kombinacji "cł" występuje akord "ZTL" - zmieniam na "ZSL"
 
+Akord SLAB duplikuje się dla wyrazów "slab" i "słab". Różnicuję * akord dla "słab".
 <pre>
 blat	PLJAT
 blich	PLJICG
@@ -54,7 +55,7 @@ młod	KPLAUBT
 młyn	KPLIAUCL
 płat	PLAT
 płeć	PLETO
-słab	SLAB
+słab	SL*AB
 słon	SLAUCL
 szłap	TPLABW
 szłyk	TPLIAUBG
