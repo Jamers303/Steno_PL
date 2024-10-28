@@ -2,7 +2,7 @@
 
 Celem pojektu Steno_PL jest publikacja słowników zgodnych z Plover i z wtyczką Slowik, przeznaczonych dla systemu polskiej stenotypii.  
 ## Aktualnie opublikowane słowniki:
-* [Trillo_Exercises_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL) - słownik obsługujący wszystkie słowa i literały użyte w ćwiczeniach zawartych w podręczniku "West Slavic Machine Stenography" autorstwa Priscilli Trillo
+* [Trillo_Exercises_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL) - słownik obejmujący wszystkie słowa, prefiksy, sufiksy i infiksy użyte w ćwiczeniach zawartych w podręczniku "West Slavic Machine Stenography" autorstwa Priscilli Trillo
 * [Trillo_Letters_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Letters_PL) - słownik z literami
 * [Trillo_PunctFormSpeak_PL](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_PunctFormSpeak_PL) - słownik ze znakami interpunkcyjnymi, formatowaniem i mówcami
 * [plvr_commands_PL](https://github.com/Jamers303/Steno_PL/tree/main/plvr_commands_PL) - słownik obsługujący komendy oprogramowania Plover
@@ -55,7 +55,7 @@ Oprogramowanie obsługujące klawiatury stenotypiczne to dobrze znany w środowi
 Jak można było przeczytać wcześniej - Krzysztof Smirnow nie tylko dzieli się z wszystkimi swą ogromną wiedzą na temat stenografii i stenotypii ale również stworzył (wspólnie z Markiem Łukasiewiczem) wtyczkę do oprogramowania Plover, obsługującą polski system stenotypii. Wtyczka nazywa się **Slowik** (z powodów podanych w tym [wpisie](https://www.stenografia.pl/blog/2021-08-24_krotko-o-nazwie-projektu/) na blogu stenografia.pl) i należy ją zainstalować zgodnie z instrukcją dostępną [TUTAJ](https://github.com/flamenco108/plover_polish_slowik).
 
 ### Słowniki
-No i tu mamy pewien problem. Otóż słownika zgodnego z polskim systemem stenotypii... nie ma. Ten dostępny z wtyczką Slowik jest na razie dość pusty. Z wpisów na blogu stenografia.pl możemy dowiedzieć się, że prace nad słownikiem trwają ale nie został określony żaden horyzont czasowy, kiedy taki słownik mógłby się pojawić. Stąd właśnie pomysł na projekt Steno_PL. Żeby nie blokować sobie możliwości nauki polskiej stenotypii zacząłem przygotowywać słownik, który docelowo ma zawierać wszystkie słowa wykorzystane w ćwiczeniach opisanych w podręczniku. Słownik uzupełniam sukcesywnie w trakcie przerabiania kolejnych lekcji z podręcznika, które również przepisuje tutaj do GitHuba. Po szczegóły - odsyłam [TUTAJ](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL).
+No i tu mamy pewien problem. Otóż słownika zgodnego z polskim systemem stenotypii... nie ma. Ten dostępny z wtyczką Slowik jest na razie dość pusty. Z wpisów na blogu stenografia.pl możemy dowiedzieć się, że prace nad słownikiem trwają ale nie został określony żaden horyzont czasowy, kiedy taki słownik mógłby się pojawić. Stąd właśnie pomysł na projekt Steno_PL. Żeby nie blokować sobie możliwości nauki polskiej stenotypii przygotowałem słownik, który zawierać wszystkie słowa wykorzystane w ćwiczeniach opisanych w podręczniku. Po szczegóły - odsyłam [TUTAJ](https://github.com/Jamers303/Steno_PL/tree/main/Trillo_Exercises_PL).
 
 ### ...a na koniec - podziękowania
 Podziękowania dla wszystkich osób, dzięki którym możemy zgłębiać piękną sztukę stenotypii w naszym języku:
