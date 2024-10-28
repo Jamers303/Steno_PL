@@ -1,4 +1,4 @@
-Dla "tel" dodaje alternatywny akord, bo nakłada się z tym dla wyrazu "ciel" w ćwiczeniu 15.
+Dla "tel" dodaje gwiazdkę do akordu, bo nakłada się z tym dla wyrazu "ciel" w ćwiczeniu 15.
 
 <pre>
 zor	ZAUR
@@ -19,7 +19,7 @@ kib	KIB
 kab	KAB
 kub	KUB
 kyb	KIAUB
-tel	TEL  TE*L
+tel	TE*L
 tol	TAUL
 tal	TAL
 til	TIL
