@@ -1,3 +1,4 @@
+W tym ćwiczeniu mamy akord FSKEIUR dla "wskór" i "wzgór". Różnicuję "wzgór" dodając *
 <pre>
 bzdet	ZTPE*T	
 bzdur	ZTP*UR	
@@ -41,7 +42,7 @@ wzburz	FSPUCRB
 wzdęt	FSTEIAT	
 wzdych	FSTICG	
 wzgard	FSKARBT	
-wzgór	FSKEIUR	
+wzgór	FSKE*IUR	
 wzmag	FSKPAG	
 wzmoż	FSKPAUBSG	
 wżdy	FTP*I	
