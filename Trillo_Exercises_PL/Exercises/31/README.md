@@ -5,7 +5,8 @@ schrypać = 	schrupać
 wyspnąć =	wypsnąć  
 wlęsło =	wklęsło    
 
-W ćwiczeniu mamy taki sam akord (FPLAT) dla "wplat" i "wpłat". Różnicuję gwiazdką przypadek z "ł".
+W ćwiczeniu mamy taki sam akord (FPLAT) dla "wplat" i "wpłat". Różnicuję gwiazdką przypadek z "ł".  
+Podobnie dla KTLRE*AUTO mamy "tknąć" i "tchnąć". Różnicuję tyldą przypadek z "tch". 
 <pre>
 ckliw	ZSKLIW	
 cknić	ZSKLRITO	
