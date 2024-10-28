@@ -91,3 +91,10 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 196 | 32 | - | znad(e)=ZLRAUBT,ZLRAUBTO | znad(e)=ZLRABT,ZLRABTO | j.w. |
 | 198 | 32 | - | techno=T*ECLGO | techno=TE*CLGO | j.w. |
 | 203 | 32 | 36 | przyciemnic | przyciemnić | j.w. |
+| 252 | 39 | - | dz=ZT | dz=ZSJ | Pomyłka |
+| 252 | 39 | - | ó=~AU | ó=EIU | j.w. |
+| 252 | 39 | - | ś=SJ | ś=S~ | j.w. |
+| 252 | 39 | - | ź=ZJ | ź=Z~ | j.w. |
+| 272 | A | - | ć=T | ć=T~ | Pomyłka |
+| 273 | A | - | ś=S | ś=S~ | j.w. |
+| 274 | A | - | ź=Z | ź=Z~ | j.w. |
