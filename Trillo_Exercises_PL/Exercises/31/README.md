@@ -3,8 +3,9 @@ zbrydzić = zbrzydzić
 zgreszyć =	zgrzeszyć  
 schrypać = 	schrupać  
 wyspnąć =	wypsnąć  
-wlęsło =	wklęsło  
+wlęsło =	wklęsło    
 
+W ćwiczeniu mamy taki sam akord (FPLAT) dla "wplat" i "wpłat". Różnicuję gwiazdką przypadek z "ł".
 <pre>
 ckliw	ZSKLIW	
 cknić	ZSKLRITO	
@@ -112,7 +113,7 @@ wkrop	FKRAUBW
 wkrzań	FSKRACLO	
 wplat	FPLAT	
 wpląt	FPLEAUT	
-wpłat	FPLAT	
+wpłat	FPL*AT	
 wpływ	FPLIW	
 wpraw	FPRAW	
 wprost	FPRAUST	
