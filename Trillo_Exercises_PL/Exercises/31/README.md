@@ -6,7 +6,10 @@ wyspnąć =	wypsnąć
 wlęsło =	wklęsło    
 
 W ćwiczeniu mamy taki sam akord (FPLAT) dla "wplat" i "wpłat". Różnicuję gwiazdką przypadek z "ł".  
-Podobnie dla KTLRE*AUTO mamy "tknąć" i "tchnąć". Różnicuję tyldą przypadek z "tch". 
+Podobnie dla KTLRE*AUTO mamy "tknąć" i "tchnąć". Różnicuję tyldą przypadek z "tch".   
+Dla KTPLREAUTO mamy "pchnąć" i "żgnąć". Zamieniam na KTPLRJEAUTO dla "żgnąć".  
+Również dla KTPLREIAC mamy "pchnięc" i "żgnięc". Zmieniam na KTPLRJEIAC dla "żgnięc".  
+
 <pre>
 ckliw	ZSKLIW	
 cknić	ZSKLRITO	
@@ -22,7 +25,7 @@ lśnien	SVLREICL	SVLRECL
 mdląc	KTPLEAUC	
 mdlić	KTPLITO	
 mdław	KTPLAW	
-mdły	KTPLI	KTPLIAU
+mdły	KTPLIAU
 mglist	KPLJIST	
 mgła	KPLJA	
 mgław	KPLJAW	
@@ -87,7 +90,7 @@ szpros	ZSPRAUS
 szprych	ZSPRICG	
 sztrab	ZSTRAB	
 sztruks	ZSTRUBSG	
-tchnąć	KTLRE*AUTO	
+tchnąć	KTLRE~*AUTO	
 tchnien	KTLRE*CL	KTLRE*ICL
 tkliw	KTL*IW	
 tknąć	KTLRE*AUTO	
@@ -176,6 +179,6 @@ zwłok	ZVLAUBG
 zwrot	ZVRAUT	
 zwróc	ZVREIUC	
 źgnąć	ZKLREAUTO	
-żgnięc	KTPLREIAC	
-żgnąć	KTPLREAUTO		
+żgnięc	KTPLRJEIAC	
+żgnąć	KTPLRJEAUTO		
 </pre>
