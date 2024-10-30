@@ -63,7 +63,7 @@ Podziękowania dla wszystkich osób, dzięki którym możemy zgłębiać piękn�
 * dla Priscilli Trillo za podręcznik do polskiej stenotypii,
 * dla Krzysztofa Smirnowa za propagowanie idei stenografii i stenotypii w narodzie,
 * dla Krzysztofa Smirnowa i Marka Łukasiewicza za wtyczkę Slowik,
-* dla wszystkich, którzy nie boją się tematu stenotypii - czyli dla Ciebie drogi czytelniku ;)
+* i w końcu dla wszystkich, którzy nie boją się drążyć tematu stenotypii - czyli głównie dla Ciebie bo starczyło Ci sił, żeby przeczytać ten materiał do końca :D
 
 Powodzenia w nauce  
 Jamers
