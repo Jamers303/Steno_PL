@@ -98,3 +98,6 @@ Poniżej zamieszczam tabelkę z tym co udało mi się wyłapać i co WYDAJE MI S
 | 272 | A | - | ć=T | ć=T~ | Pomyłka |
 | 273 | A | - | ś=S | ś=S~ | j.w. |
 | 274 | A | - | ź=Z | ź=Z~ | j.w. |
+| 302 | H | - | {=KTPV-LBSG | {=ZSKT-SGTW | Prawdopodobnie pomyłka |
+| 302 | H | - | }=ZSKT-SGTW | }=ZSKT*SGTW | j.w. |
+
