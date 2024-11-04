@@ -15,7 +15,7 @@ Na początkowym etapie nauki mogą okazać się przydatne talie z fiszkami Anki 
 * Steno PL - gloski wieloklawiszowe Trillo.apkg - fiszki z wszystkimi głoskami wymagającymi wciśnięcia wielu klawiszy
 * Steno PL - interpunkcja Trillo.apkg - fiszki z akordami dot. znaków interpunkcyjnych
 
-Wszystkie translacje (wyrazy na akordy) zostały wpisane do słownika przeze mnie - czyli jest to moja interpretacja słów, zgodna (mam nadzieję) z zamysłem autorki systemu. Dla niektórych wyrazów wpisałem parę dopuszczalnych zestawów akordów (np. dla wyrazu "żniw":	TPLRJIW oraz TPLRJW).  
+UWAGA: wszystkie translacje (wyrazy na akordy) w ćwiczeniach zostały wpisane do słownika przeze mnie - czyli jest to moja interpretacja słów, zgodna (mam nadzieję) z zamysłem autorki systemu. Dla niektórych wyrazów wpisałem parę dopuszczalnych zestawów akordów (np. dla wyrazu "żniw":	TPLRJIW oraz TPLRJW).  
 Jeżeli jednak znajdziecie jakiekolwiek nieprawidłowowści - proszę o kontakt. 
 
   
