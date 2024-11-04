@@ -9,6 +9,11 @@
   
 Wszystkie ćwiczenia można w łatwy i przyjemny sposób wykonać np. na platformie Typey Type, wklejając skopiowaną treść ćwiczenia do formularza dostępnego tutaj:
 [https://didoesdigital.com/typey-type/lessons/custom/setup](https://didoesdigital.com/typey-type/lessons/custom/setup) i wybierając następnie przycisk "Start custom lesson".  
+  
+Na początkowym etapie nauki mogą okazać się przydatne talie z fiszkami Anki ([https://apps.ankiweb.net/](https://apps.ankiweb.net/)) dostępne powyżej na liście plików:
+* Steno PL - steno porzadek.apkg - fiszki utrwalające porządek steno w systemie Trillo (w obie strony)
+* Steno PL - gloski wieloklawiszowe Trillo.apkg - fiszki z wszystkimi głoskami wymagającymi wciśnięcia wielu klawiszy
+* Steno PL - interpunkcja Trillo.apkg - fiszki z akordami dot. znaków interpunkcyjnych
 
 Wszystkie translacje (wyrazy na akordy) zostały wpisane do słownika przeze mnie - czyli jest to moja interpretacja słów, zgodna (mam nadzieję) z zamysłem autorki systemu. Dla niektórych wyrazów wpisałem parę dopuszczalnych zestawów akordów (np. dla wyrazu "żniw":	TPLRJIW oraz TPLRJW).  
 Jeżeli jednak znajdziecie jakiekolwiek nieprawidłowowści - proszę o kontakt. 
